@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: stg_erp__products
+    description: ERP materials renamed to the shared shape, brand standardized, MPN normalized.
+    columns: &staging_columns
+      - name: source_key
+        data_tests: [unique, not_null]
+      - name: brand_name
+        data_tests: [not_null]
+      - name: is_brand_resolved
+        description: False when the brand spelling isn't in ref_brand_aliases yet.
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: [true]
+              config:
+                severity: warn
+
+  - name: stg_catalog__products
+    description: Catalog SKUs renamed to the shared shape, brand standardized, MPN normalized.
+    columns: *staging_columns
+
+  - name: stg_acq__products
+    description: Acquired-distributor items renamed to the shared shape, brand standardized, MPN normalized.
+    columns: *staging_columns
