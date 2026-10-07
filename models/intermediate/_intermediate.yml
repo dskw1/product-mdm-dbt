@@ -1,0 +1,33 @@
+version: 2
+
+models:
+  - name: int_product_records
+    description: All source records unioned into one shape, with canonical category and fuzzy-match text attached.
+    data_tests:
+      - unique:
+          arguments:
+            column_name: "source_system || ':' || source_key"
+    columns:
+      - name: category
+        description: Null means the source category isn't in ref_category_map.
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
+
+  - name: int_product_matches
+    description: >
+      The match key for every source record. Exact on brand + normalized MPN, then
+      fuzzy on description for records with no MPN, with a spec guard and an ambiguity
+      margin. Unresolved records get their own key.
+    data_tests:
+      - unique:
+          arguments:
+            column_name: "source_system || ':' || source_key"
+    columns:
+      - name: match_method
+        data_tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["exact_mpn", "fuzzy_description", "unmatched"]
