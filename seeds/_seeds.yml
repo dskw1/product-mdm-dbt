@@ -1,0 +1,40 @@
+version: 2
+
+seeds:
+  - name: raw_erp_products
+    description: ERP material master extract. One row per material number. The same part can appear under more than one material.
+    columns:
+      - name: material_number
+        data_tests: [unique, not_null]
+
+  - name: raw_erp_category_log
+    description: Every category assignment an ERP material has had, with the date it took effect.
+
+  - name: raw_catalog_products
+    description: E-commerce catalog export. Clean titles and list prices. MPNs are entered by hand and occasionally mistyped.
+    columns:
+      - name: catalog_sku
+        data_tests: [unique, not_null]
+
+  - name: raw_acq_products
+    description: Item file inherited from an acquired distributor. Its own category names, inconsistent vendor spellings, and some items with no part number.
+    columns:
+      - name: item_id
+        data_tests: [unique, not_null]
+
+  - name: ref_brand_aliases
+    description: Maps every brand spelling seen in the sources to one canonical brand. Owned by the data stewards.
+
+  - name: ref_category_map
+    description: Maps each source system's category codes to the canonical category and subcategory. Owned by the data stewards.
+    columns:
+      - name: source_system
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["erp", "catalog", "acquired"]
+
+  - name: mdm_ground_truth
+    description: >
+      Which real product each source record represents. Exists only because the data is
+      synthetic. The pipeline never uses it for matching. It's only used to score the results.

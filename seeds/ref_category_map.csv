@@ -1,0 +1,42 @@
+source_system,source_category,category,subcategory
+erp,EQ-CND,Equipment,Condensers
+catalog,HVAC > Equipment > Condensers,Equipment,Condensers
+acquired,Cond Units,Equipment,Condensers
+erp,EQ-FUR,Equipment,Furnaces
+catalog,HVAC > Equipment > Furnaces,Equipment,Furnaces
+acquired,Gas Furnaces,Equipment,Furnaces
+erp,EQ-AHU,Equipment,Air Handlers
+catalog,HVAC > Equipment > Air Handlers,Equipment,Air Handlers
+acquired,AHU,Equipment,Air Handlers
+erp,EQ-HTP,Equipment,Heat Pumps
+catalog,HVAC > Equipment > Heat Pumps,Equipment,Heat Pumps
+acquired,Heat Pump,Equipment,Heat Pumps
+erp,PT-MTR,Parts,Motors
+catalog,HVAC > Parts > Motors,Parts,Motors
+acquired,Motors,Parts,Motors
+erp,PT-CAP,Parts,Capacitors
+catalog,HVAC > Parts > Capacitors,Parts,Capacitors
+acquired,Caps,Parts,Capacitors
+erp,PT-CON,Parts,Contactors
+catalog,HVAC > Parts > Contactors,Parts,Contactors
+acquired,Contactors,Parts,Contactors
+erp,PT-CMP,Parts,Compressors
+catalog,HVAC > Parts > Compressors,Parts,Compressors
+acquired,Compressor,Parts,Compressors
+erp,SP-REF,Supplies,Refrigerant
+catalog,HVAC > Supplies > Refrigerant,Supplies,Refrigerant
+acquired,Refrig,Supplies,Refrigerant
+erp,SP-LIN,Supplies,Line Sets
+catalog,HVAC > Supplies > Line Sets,Supplies,Line Sets
+acquired,Linesets,Supplies,Line Sets
+erp,SP-FLT,Supplies,Filters
+catalog,HVAC > Supplies > Filters,Supplies,Filters
+acquired,Filters,Supplies,Filters
+erp,CT-TST,Controls,Thermostats
+catalog,HVAC > Controls > Thermostats,Controls,Thermostats
+acquired,Tstats,Controls,Thermostats
+erp,CT-SEN,Controls,Sensors
+catalog,HVAC > Controls > Sensors,Controls,Sensors
+acquired,Sensors,Controls,Sensors
+erp,EQUIP-OUT,Equipment,Outdoor Equipment (legacy)
+erp,PT-ELEC,Parts,Electrical Parts (legacy)

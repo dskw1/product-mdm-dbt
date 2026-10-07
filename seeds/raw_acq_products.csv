@@ -1,0 +1,593 @@
+item_id,item_desc,vendor_name,vendor_part_no,item_category,last_cost,acquired_on
+ACQ5862063,bluepeak tundra 3.5t 15seer heat pump,Blue Peak,,Heat Pump,4254.08,2025-04-01
+ACQ5317666,heliotemp harbor duct temp 10k sensor,HELIOTEMP,HT/45997/H,Sensors,38.29,2025-04-01
+ACQ9152911,arcticline orion duct temp 10k sensor,ARCTICLINE,AL/35954/K,Sensors,59.67,2025-04-01
+ACQ4206699,arcticline summit 3.5 ton 16 seer condenser,Arctic Line,,Cond Units,2470.05,2025-04-01
+ACQ3981373,ridgeway air orion 40k btu 92% afue furnace,Ridgeway,,Gas Furnaces,2453.82,2025-04-01
+ACQ7078456,ridgeway air meridian 40/5 mfd 440v capacitor,RIDGEWAY,RW16743G,Caps,54.13,2025-04-01
+ACQ7167733,bluepeak granite smart wi-fi 3h/2c thermostat,BLUEPEAK,,Tstats,199.91,2025-04-01
+ACQ1171758,northwind comfort trident scroll 48k btu r-454b compressor,N/W Comfort,NW/75230/A,Compressor,945.37,2025-04-01
+ACQ6835010,corvane vector outdoor temp 4-20ma sensor,Corvane Controls,CV27582B,Sensors,15.90,2025-04-01
+ACQ5625285,thermaxis sable 5 ton 15 seer condenser,Therm-Axis,,Cond Units,2490.94,2025-04-01
+ACQ5059887,heliotemp atlas r-22 25 lb cylinder refrigerant,HELIOTEMP,HT-47331-D,Refrig,197.22,2025-04-01
+ACQ8451087,northwind comfort meridian scroll 42k btu r-454b compressor,Northwind Comfort Inc,,Compressor,1025.06,2025-04-01
+ACQ4757288,ridgeway air summit 50/10 mfd 370v capacitor,Ridgeway,,Caps,38.38,2025-04-01
+ACQ5124561,bluepeak ember r-410a 25 lb cylinder refrigerant,Blue Peak,,Refrig,106.53,2025-04-01
+ACQ4039731,northwind comfort falcon 1.5 ton 20 seer condenser,N/W Comfort,NW/66448/D,Cond Units,2640.37,2025-04-01
+ACQ5958630,ridgeway air cascade 35/5 mfd 440v capacitor,Ridgeway Air Prod,,Caps,50.27,2025-04-01
+ACQ9663829,corvane sable r-22 30 lb cylinder refrigerant,Corvane Inc.,,Refrig,163.86,2025-04-01
+ACQ8038696,arcticline falcon programmable 3h/2c thermostat,ARCTICLINE,AL-44218-F,Tstats,170.08,2025-04-01
+ACQ5712132,ridgeway air beacon 4 ton upflow air handler,RIDGEWAY,RW-67487-F,AHU,1295.28,2025-04-01
+ACQ4158143,bluepeak zephyr 50/10 mfd 370v capacitor,BLUEPEAK,,Caps,42.62,2025-04-01
+ACQ1122672,corvane meridian 120k btu 96% afue furnace,Corvane Controls,,Gas Furnaces,2317.71,2025-04-01
+ACQ7248825,heliotemp beacon scroll 36k btu r-410a compressor,Helio-Temp,HT96411F,Compressor,536.97,2025-04-01
+ACQ1114139,bluepeak zephyr 1 pole 40 amp 240v coil contactor,BluePeak HVAC,,Contactors,51.68,2025-04-01
+ACQ2510683,thermaxis granite 2t 20seer heat pump,THERMAXIS,TX-46597-A,Heat Pump,2410.29,2025-04-01
+ACQ1933388,heliotemp meridian 4 ton 20 seer heat pump,HELIOTEMP,HT71291A,Heat Pump,2084.71,2025-04-01
+ACQ2350777,northwind comfort orion 16x20x4 merv 11 filter,NORTHWIND,,Filters,20.08,2025-04-01
+ACQ9476284,corvane atlas 5 ton multi-position air handler,CORVANE,CV92417F,AHU,883.61,2025-04-01
+ACQ3718563,ridgeway air harbor r-22 25 lb cylinder refrigerant,Ridgeway Air Prod,,Refrig,312.36,2025-04-01
+ACQ6509951,ridgeway air trident scroll 36k btu r-410a compressor,RIDGEWAY,,Compressor,1386.90,2025-04-01
+ACQ6519474,ridgeway air ember 2.5 ton multi-position air handler,Ridgeway,RW92927G,AHU,1603.51,2025-04-01
+ACQ6514182,heliotemp meridian 1/2 hp 1625 rpm motor,Helio-Temp,HT-43039-D,Motors,431.79,2025-04-01
+ACQ1551403,ridgeway air cascade r-32 10 lb cylinder refrigerant,RIDGEWAY,,Refrig,124.07,2025-04-01
+ACQ4671663,heliotemp lumen scroll 48k btu r-454b compressor,HELIOTEMP,,Compressor,1312.63,2025-04-01
+ACQ1373840,corvane summit 40/3 mfd 440v capacitor,CORVANE,,Caps,43.70,2025-04-01
+ACQ5550720,thermaxis vector 3/8 x 3/4 50 ft line set,Therm-Axis,TX46065A,Linesets,115.83,2025-04-01
+ACQ4006040,ridgeway air keystone 16x20x1 merv 8 filter,Ridgeway,RW/79496/E,Filters,11.40,2025-04-01
+ACQ2398106,ridgeway air sterling smart wi-fi 3h/2c thermostat,RIDGEWAY,RW/18556/F,Tstats,283.51,2025-04-01
+ACQ2519596,heliotemp mesa 3t upflow air handler,HELIOTEMP,HT78471B,AHU,1993.60,2025-04-01
+ACQ1597307,bluepeak granite 3/4 hp 1625 rpm motor,Blue Peak,BP-23194-A,Motors,197.18,2025-04-01
+ACQ8586009,corvane mesa programmable 2h/2c thermostat,Corvane Inc.,CV-90018-C,Tstats,273.33,2025-04-01
+ACQ6543773,northwind comfort ember 3 ton horizontal air handler,Northwind Comfort Inc,,AHU,2039.89,2025-04-01
+ACQ5410593,heliotemp keystone 4 ton 18 seer condenser,Heliotemp Corp,HT38490F,Cond Units,3467.77,2025-04-01
+ACQ6673046,arcticline lumen 20x20x2 merv 8 filter,Arcticline Mfg,,Filters,31.74,2025-04-01
+ACQ1436013,bluepeak ember scroll 48k btu r-454b compressor,BluePeak HVAC,BP/78174/A,Compressor,1400.97,2025-04-01
+ACQ1375954,heliotemp tundra 1/4 hp 1075 rpm motor,Helio-Temp,,Motors,66.67,2025-04-01
+ACQ6247643,bluepeak meridian r-454b 30 lb cylinder refrigerant,BluePeak HVAC,BP93525F,Refrig,282.27,2025-04-01
+ACQ1383686,corvane granite 20x20x2 merv 11 filter,Corvane Inc.,CV-77272-B,Filters,29.93,2025-04-01
+ACQ7763628,heliotemp orion scroll 30k btu r-454b compressor,HELIOTEMP,HT-91039-J,Compressor,911.73,2025-04-01
+ACQ3027055,ridgeway air lumen 45/3 mfd 440v capacitor,Ridgeway Air Prod,RW61367F,Caps,25.50,2025-04-01
+ACQ9877113,northwind comfort lumen 2.5 ton 14 seer heat pump,Northwind Comfort Inc,NW14197K,Heat Pump,3739.45,2025-04-01
+ACQ1313809,thermaxis pioneer 2.5 ton multi-position air handler,Therm-Axis,,AHU,1394.01,2025-04-01
+ACQ5503027,heliotemp quarry 1/6 hp 825 rpm motor,HELIOTEMP,HT-36133-G,Motors,157.66,2025-04-01
+ACQ1027176,thermaxis summit 2 pole 40 amp 24v coil contactor,Therm-Axis,TX80271A,Contactors,22.67,2025-04-01
+ACQ6518365,bluepeak tundra 1.5 ton 16 seer condenser,Blue Peak,BP-90285-A,Cond Units,3098.39,2025-04-01
+ACQ4539680,bluepeak zephyr 3.5 ton 18 seer heat pump,BLUEPEAK,bp 20069 b,Heat Pump,1387.93,2025-04-01
+ACQ4298194,northwind comfort beacon 4 ton horizontal air handler,Northwind Comfort Inc,nw 25772 j,AHU,716.15,2025-04-01
+ACQ3014937,corvane pioneer 3/4 hp 1625 rpm motor,Corvane Inc.,CV-15569-F,Motors,239.90,2025-04-01
+ACQ5046725,northwind comfort sable 20x25x1 merv 11 filter,NORTHWIND,NW21852K,Filters,22.87,2025-04-01
+ACQ3838872,bluepeak vector 1/4 hp 825 rpm motor,Blue Peak,BP74962J,Motors,256.94,2025-04-01
+ACQ3786474,heliotemp juniper r-454b 30 lb cylinder refrigerant,Heliotemp Corp,,Refrig,141.51,2025-04-01
+ACQ5643849,northwind comfort meridian r-32 25 lb cylinder refrigerant,Northwind Comfort Inc,NW29571C,Refrig,358.52,2025-04-01
+ACQ1185127,bluepeak cascade 3 pole 40 amp 120v coil contactor,BluePeak HVAC,bp 41621 a,Contactors,50.90,2025-04-01
+ACQ1860721,thermaxis granite 20x25x2 merv 8 filter,Therm-Axis,,Filters,4.58,2025-04-01
+ACQ3105578,arcticline meridian 55/5 mfd 440v capacitor,ARCTICLINE,,Caps,45.13,2025-04-01
+ACQ8762875,northwind comfort apex 1/3 hp 1075 rpm motor,Northwind Comfort Inc,NW/82625/J,Motors,394.79,2025-04-01
+ACQ3018290,bluepeak sable 3 ton 14 seer heat pump,BLUEPEAK,,Heat Pump,1291.89,2025-04-01
+ACQ9409807,heliotemp mesa 40/10 mfd 370v capacitor,Heliotemp Corp,HT-81696-D,Caps,9.27,2025-04-01
+ACQ9627204,arcticline sterling 2.5t 20seer condenser,ARCTICLINE,AL80715C,Cond Units,2183.57,2025-04-01
+ACQ8301443,thermaxis atlas 1/4 x 3/8 50 ft line set,Therm-Axis,,Linesets,152.31,2025-04-01
+ACQ2947651,bluepeak keystone 1/4 x 3/8 25 ft line set,Blue Peak,BP-24592-H,Linesets,215.17,2025-04-01
+ACQ9688933,thermaxis sable 4 ton 20 seer condenser,Thermaxis LLC,TX/10512/E,Cond Units,2004.02,2025-04-01
+ACQ9018528,corvane delta 3/8 x 7/8 35 ft line set,CORVANE,CV-12196-F,Linesets,226.11,2025-04-01
+ACQ9730605,heliotemp vector 20x20x2 merv 13 filter,Helio-Temp,HT21232C,Filters,17.29,2025-04-01
+ACQ5773593,heliotemp apex 20x25x4 merv 13 filter,HELIOTEMP,HT19910J,Filters,14.15,2025-04-01
+ACQ3322424,ridgeway air mesa r-32 10 lb cylinder refrigerant,Ridgeway Air Prod,RW-85701-J,Refrig,381.33,2025-04-01
+ACQ5417709,bluepeak zephyr 60/5 mfd 440v capacitor,BluePeak HVAC,BP20090C,Caps,41.15,2025-04-01
+ACQ5907611,bluepeak vector humidity 10k sensor,Blue Peak,BP-77799-B,Sensors,23.11,2025-04-01
+ACQ1587636,ridgeway air sterling 16x20x1 merv 13 filter,Ridgeway Air Prod,RW-74979-F,Filters,12.42,2025-04-01
+ACQ3891421,heliotemp orion 2 pole 30 amp 120v coil contactor,Heliotemp Corp,HT/21402/B,Contactors,66.14,2025-04-01
+ACQ2282739,bluepeak beacon 4 ton 16 seer condenser,BLUEPEAK,,Cond Units,1993.87,2025-04-01
+ACQ3137542,northwind comfort beacon 1 hp 1625 rpm motor,NORTHWIND,NW28309K,Motors,410.99,2025-04-01
+ACQ9186259,northwind comfort atlas scroll 18k btu r-454b compressor,N/W Comfort,,Compressor,868.34,2025-04-01
+ACQ9510584,northwind comfort zephyr 1/4 x 3/8 35 ft line set,N/W Comfort,nw 69818 k,Linesets,127.03,2025-04-01
+ACQ5675299,ridgeway air mesa smart wi-fi 3h/2c thermostat,Ridgeway,RW-45925-G,Tstats,256.35,2025-04-01
+ACQ3496625,arcticline falcon scroll 18k btu r-410a compressor,ARCTICLINE,AL63357A,Compressor,716.67,2025-04-01
+ACQ5047578,northwind comfort harbor r-410a 30 lb cylinder refrigerant,Northwind Comfort Inc,nw 83546 h,Refrig,132.14,2025-04-01
+ACQ7679883,heliotemp meridian duct temp 20k sensor,Helio-Temp,HT-19399-H,Sensors,86.86,2025-04-01
+ACQ2557676,bluepeak harbor scroll 24k btu r-410a compressor,BluePeak HVAC,BP-26996-A,Compressor,1149.40,2025-04-01
+ACQ4756194,thermaxis ember 45/5 mfd 370v capacitor,Therm-Axis,TX-43998-F,Caps,27.91,2025-04-01
+ACQ2179199,ridgeway air atlas duct temp 10k sensor,Ridgeway,RW-42210-C,Sensors,60.10,2025-04-01
+ACQ3897342,bluepeak harbor 3.5t 20seer heat pump,BluePeak HVAC,,Heat Pump,1767.64,2025-04-01
+ACQ9580355,corvane delta 1 hp 825 rpm motor,Corvane Inc.,CV-64122-A,Motors,237.89,2025-04-01
+ACQ5359798,ridgeway air pioneer 3.5t 16seer heat pump,Ridgeway Air Prod,RW-32250-B,Heat Pump,2443.48,2025-04-01
+ACQ2151813,heliotemp trident 20x20x4 merv 13 filter,Helio-Temp,HT83550F,Filters,12.99,2025-04-01
+ACQ1053425,northwind comfort beacon 3 ton multi-position air handler,N/W Comfort,,AHU,772.89,2025-04-01
+ACQ9466514,heliotemp granite 2 ton 20 seer condenser,Helio-Temp,HT-59170-E,Cond Units,1502.00,2025-04-01
+ACQ5959793,corvane pioneer r-410a 25 lb cylinder refrigerant,CORVANE,cv 24880 b,Refrig,175.30,2025-04-01
+ACQ6659671,ridgeway air apex duct temp 20k sensor,RIDGEWAY,RW-77992-D,Sensors,63.09,2025-04-01
+ACQ2728045,northwind comfort quarry duct temp 10k sensor,NORTHWIND,,Sensors,67.22,2025-04-01
+ACQ9625471,ridgeway air orion 1/4 hp 1075 rpm motor,RIDGEWAY,,Motors,163.58,2025-04-01
+ACQ8931529,ridgeway air summit outdoor temp 10k sensor,RIDGEWAY,,Sensors,60.09,2025-04-01
+ACQ7802702,ridgeway air meridian humidity 4-20ma sensor,Ridgeway Air Prod,RW/22535/G,Sensors,102.88,2025-04-01
+ACQ1086508,bluepeak quarry outdoor temp 20k sensor,BLUEPEAK,,Sensors,83.49,2025-04-01
+ACQ6774171,thermaxis tundra 40k btu 92% afue furnace,THERMAXIS,TX-41818-J,Gas Furnaces,737.41,2025-04-01
+ACQ1677482,heliotemp sterling 1/6 hp 825 rpm motor,Heliotemp Corp,HT/44384/K,Motors,403.31,2025-04-01
+ACQ7860144,bluepeak mesa 1.5 ton 14 seer heat pump,Blue Peak,,Heat Pump,2881.76,2025-04-01
+ACQ5542533,northwind comfort apex 3t upflow air handler,N/W Comfort,NW-88565-C,AHU,861.61,2025-04-01
+ACQ1665848,northwind comfort atlas 3/8 x 3/4 50 ft line set,N/W Comfort,,Linesets,127.10,2025-04-01
+ACQ1536277,northwind comfort mesa 2.5t 14seer heat pump,Northwind Comfort Inc,NW-90355-K,Heat Pump,3605.01,2025-04-01
+ACQ8080387,corvane trident smart wi-fi 1h/1c thermostat,CORVANE,cv 35674 b,Tstats,273.51,2025-04-01
+ACQ3786563,ridgeway air falcon non-programmable 3h/2c thermostat,Ridgeway Air Prod,rw 94469 b,Tstats,234.19,2025-04-01
+ACQ3631129,ridgeway air zephyr r-454b 10 lb cylinder refrigerant,Ridgeway Air Prod,RW75242B,Refrig,428.17,2025-04-01
+ACQ6927776,thermaxis trident co2 10k sensor,Therm-Axis,TX/90033/F,Sensors,33.85,2025-04-01
+ACQ2495142,bluepeak lumen 80k btu 92% afue furnace,BLUEPEAK,BP58101F,Gas Furnaces,2352.01,2025-04-01
+ACQ4647466,arcticline trident co2 20k sensor,Arcticline Mfg,al 78919 g,Sensors,64.52,2025-04-01
+ACQ6740178,ridgeway air sterling 55/7.5 mfd 440v capacitor,RIDGEWAY,RW-19711-J,Caps,58.34,2025-04-01
+ACQ5484174,northwind comfort ember duct temp 20k sensor,Northwind Comfort Inc,,Sensors,41.14,2025-04-01
+ACQ8286422,arcticline meridian 120k btu 96% afue furnace,Arctic Line,AL-96667-E,Gas Furnaces,1013.45,2025-04-01
+ACQ4279583,bluepeak juniper 80k btu 80% afue furnace,BLUEPEAK,BP-40522-G,Gas Furnaces,1762.20,2025-04-01
+ACQ5350900,heliotemp juniper 1/4 hp 1075 rpm motor,Heliotemp Corp,HT84674E,Motors,87.60,2025-04-01
+ACQ9007280,bluepeak atlas 2 pole 30 amp 120v coil contactor,BLUEPEAK,BP51749B,Contactors,65.58,2025-04-01
+ACQ3106180,heliotemp sable 20x25x4 merv 11 filter,Helio-Temp,HT99268A,Filters,15.28,2025-04-01
+ACQ4894775,heliotemp granite 40/5 mfd 440v capacitor,HELIOTEMP,ht 31132 e,Caps,42.71,2025-04-01
+ACQ6236235,corvane sable 80k btu 92% afue furnace,CORVANE,CV/29110/G,Gas Furnaces,1844.62,2025-04-01
+ACQ5344705,heliotemp sterling 1 pole 40 amp 120v coil contactor,HELIOTEMP,,Contactors,33.83,2025-04-01
+ACQ7083861,corvane orion 4 ton 14 seer condenser,Corvane Inc.,CV54750C,Cond Units,1617.58,2025-04-01
+ACQ7972481,heliotemp orion 1/4 hp 1625 rpm motor,Helio-Temp,ht 24748 j,Motors,389.11,2025-04-01
+ACQ2369237,thermaxis mesa 1/6 hp 825 rpm motor,Thermaxis LLC,,Motors,359.37,2025-04-01
+ACQ2022089,bluepeak cascade 5 ton 18 seer heat pump,Blue Peak,,Heat Pump,4057.16,2025-04-01
+ACQ9526996,corvane tundra co2 20k sensor,CORVANE,CV/11784/A,Sensors,82.69,2025-04-01
+ACQ1404052,heliotemp juniper 20x25x2 merv 11 filter,HELIOTEMP,HT-55111-D,Filters,36.79,2025-04-01
+ACQ1655083,corvane orion r-32 30 lb cylinder refrigerant,Corvane Inc.,CV-91113-C,Refrig,233.98,2025-04-01
+ACQ7397520,bluepeak granite outdoor temp 4-20ma sensor,BLUEPEAK,BP-96369-F,Sensors,31.45,2025-04-01
+ACQ9711235,corvane sable 1 hp 1625 rpm motor,CORVANE,cv 31757 h,Motors,294.52,2025-04-01
+ACQ1854079,thermaxis granite 5 ton 14 seer condenser,Therm-Axis,tx 23387 k,Cond Units,1202.94,2025-04-01
+ACQ4457785,heliotemp cascade 3.5 ton 16 seer condenser,Heliotemp Corp,ht 85256 b,Cond Units,1113.34,2025-04-01
+ACQ5799820,thermaxis pioneer scroll 60k btu r-410a compressor,Thermaxis LLC,tx 45051 g,Compressor,1166.51,2025-04-01
+ACQ6543970,thermaxis meridian 1/4 hp 1075 rpm motor,Therm-Axis,tx 90713 a,Motors,211.95,2025-04-01
+ACQ5454341,corvane delta programmable 1h/1c thermostat,Corvane Inc.,,Tstats,52.62,2025-04-01
+ACQ7375490,heliotemp orion 3/8 x 7/8 15 ft line set,Helio-Temp,,Linesets,246.47,2025-04-01
+ACQ8822592,arcticline ember 45/10 mfd 440v capacitor,Arctic Line,AL/27480/A,Caps,33.73,2025-04-01
+ACQ3911955,ridgeway air summit 55/3 mfd 440v capacitor,Ridgeway,RW84046F,Caps,10.14,2025-04-01
+ACQ6959885,thermaxis trident 1 hp 1625 rpm motor,THERMAXIS,TX-60056-H,Motors,223.97,2025-04-01
+ACQ3281595,bluepeak trident 2.5t 15seer heat pump,BluePeak HVAC,BP85094F,Heat Pump,1338.35,2025-04-01
+ACQ9130694,thermaxis mesa scroll 60k btu r-410a compressor,Therm-Axis,TX-24125-K,Compressor,869.82,2025-04-01
+ACQ1482277,northwind comfort beacon 2.5 ton 14 seer condenser,Northwind Comfort Inc,NW/58715/H,Cond Units,3084.29,2025-04-01
+ACQ1129185,northwind comfort ember 20x25x2 merv 11 filter,Northwind Comfort Inc,NW43864D,Filters,11.01,2025-04-01
+ACQ9559336,ridgeway air atlas 1/3 hp 825 rpm motor,Ridgeway,,Motors,432.27,2025-04-01
+ACQ1208208,arcticline delta 1 hp 825 rpm motor,Arcticline Mfg,AL-87728-A,Motors,208.25,2025-04-01
+ACQ4138113,bluepeak delta 100k btu 80% afue furnace,BLUEPEAK,,Gas Furnaces,2191.77,2025-04-01
+ACQ5263186,bluepeak juniper r-454b 20 lb cylinder refrigerant,BluePeak HVAC,BP-15610-D,Refrig,299.64,2025-04-01
+ACQ3990673,northwind comfort quarry 2 ton 18 seer heat pump,NORTHWIND,NW71913D,Heat Pump,2955.66,2025-04-01
+ACQ2531528,ridgeway air lumen 3/8 x 3/4 25 ft line set,Ridgeway,RW/36007/B,Linesets,73.80,2025-04-01
+ACQ9269134,arcticline beacon r-32 10 lb cylinder refrigerant,Arctic Line,,Refrig,199.90,2025-04-01
+ACQ8036047,heliotemp pioneer non-programmable 2h/2c thermostat,Helio-Temp,,Tstats,168.82,2025-04-01
+ACQ3735705,arcticline ember r-22 20 lb cylinder refrigerant,Arcticline Mfg,AL85925D,Refrig,428.47,2025-04-01
+ACQ6397148,heliotemp summit 16x25x2 merv 13 filter,Helio-Temp,,Filters,21.40,2025-04-01
+ACQ1572984,corvane orion 3.5 ton upflow air handler,CORVANE,CV42342C,AHU,688.53,2025-04-01
+ACQ6783703,ridgeway air mesa 3/4 hp 1625 rpm motor,RIDGEWAY,RW95538E,Motors,327.62,2025-04-01
+ACQ4061491,thermaxis quarry 2 pole 50 amp 120v coil contactor,Therm-Axis,TX92935C,Contactors,27.35,2025-04-01
+ACQ2282346,heliotemp pioneer 35/7.5 mfd 440v capacitor,Helio-Temp,HT84456K,Caps,16.73,2025-04-01
+ACQ3690178,ridgeway air granite 1 hp 1625 rpm motor,RIDGEWAY,RW-88236-B,Motors,201.09,2025-04-01
+ACQ8840138,thermaxis zephyr co2 4-20ma sensor,THERMAXIS,,Sensors,32.48,2025-04-01
+ACQ5546594,heliotemp summit smart wi-fi 2h/2c thermostat,Heliotemp Corp,HT/78781/H,Tstats,84.68,2025-04-01
+ACQ8321079,northwind comfort granite 3/8 x 3/4 25 ft line set,N/W Comfort,,Linesets,116.36,2025-04-01
+ACQ5212060,northwind comfort vector 100k btu 96% afue furnace,N/W Comfort,NW-71404-H,Gas Furnaces,2325.86,2025-04-01
+ACQ4790676,bluepeak tundra r-22 30 lb cylinder refrigerant,BLUEPEAK,BP-26848-G,Refrig,402.42,2025-04-01
+ACQ5701228,thermaxis zephyr outdoor temp 10k sensor,THERMAXIS,,Sensors,72.92,2025-04-01
+ACQ2070433,ridgeway air zephyr 3.5t 18seer heat pump,RIDGEWAY,RW-32743-C,Heat Pump,2809.29,2025-04-01
+ACQ4969147,northwind comfort granite 60/10 mfd 370v capacitor,N/W Comfort,nw 42952 g,Caps,10.36,2025-04-01
+ACQ4211121,arcticline harbor 16x25x4 merv 8 filter,Arctic Line,al 50953 g,Filters,34.18,2025-04-01
+ACQ3593756,heliotemp lumen 50/3 mfd 440v capacitor,Helio-Temp,,Caps,10.07,2025-04-01
+ACQ7836737,northwind comfort vector 3.5 ton 14 seer heat pump,Northwind Comfort Inc,,Heat Pump,1910.51,2025-04-01
+ACQ8874210,thermaxis mesa 3/8 x 3/4 35 ft line set,Thermaxis LLC,,Linesets,208.16,2025-04-01
+ACQ2664527,bluepeak cascade 3.5 ton 15 seer condenser,BluePeak HVAC,BP/24188/D,Cond Units,1425.41,2025-04-01
+ACQ9476623,bluepeak apex r-454b 30 lb cylinder refrigerant,BluePeak HVAC,,Refrig,260.90,2025-04-01
+ACQ7274537,heliotemp sterling 45/3 mfd 370v capacitor,HELIOTEMP,HT/26853/B,Caps,45.68,2025-04-01
+ACQ2473229,thermaxis vector 5t multi-position air handler,THERMAXIS,TX10515C,AHU,1022.01,2025-04-01
+ACQ6378883,heliotemp tundra 3/8 x 3/4 50 ft line set,Helio-Temp,HT/37023/C,Linesets,107.06,2025-04-01
+ACQ1362153,corvane cascade 2.5t multi-position air handler,Corvane Controls,cv 23751 a,AHU,1541.92,2025-04-01
+ACQ6820150,thermaxis apex r-32 25 lb cylinder refrigerant,Therm-Axis,,Refrig,252.27,2025-04-01
+ACQ6048634,heliotemp summit 3/8 x 3/4 35 ft line set,HELIOTEMP,ht 78086 k,Linesets,62.82,2025-04-01
+ACQ3109647,bluepeak quarry r-32 25 lb cylinder refrigerant,Blue Peak,,Refrig,183.59,2025-04-01
+ACQ5680432,arcticline granite duct temp 20k sensor,Arctic Line,,Sensors,110.24,2025-04-01
+ACQ2053110,corvane juniper non-programmable 1h/1c thermostat,Corvane Controls,,Tstats,51.79,2025-04-01
+ACQ6858542,corvane tundra r-454b 10 lb cylinder refrigerant,CORVANE,CV62796E,Refrig,350.47,2025-04-01
+ACQ6694701,corvane atlas smart wi-fi 2h/2c thermostat,Corvane Controls,,Tstats,142.85,2025-04-01
+ACQ3938591,bluepeak zephyr 3/8 x 7/8 25 ft line set,Blue Peak,BP/16256/K,Linesets,219.45,2025-04-01
+ACQ8184094,ridgeway air zephyr 3/8 x 7/8 50 ft line set,Ridgeway,,Linesets,82.93,2025-04-01
+ACQ7917983,northwind comfort harbor 5t 16seer condenser,N/W Comfort,NW58040E,Cond Units,3950.04,2025-04-01
+ACQ2678554,ridgeway air beacon 60k btu 97% afue furnace,Ridgeway Air Prod,RW-49420-G,Gas Furnaces,2156.96,2025-04-01
+ACQ9744787,ridgeway air lumen 3.5 ton 15 seer condenser,RIDGEWAY,RW/19635/B,Cond Units,3951.67,2025-04-01
+ACQ5726133,corvane tundra 4 ton upflow air handler,Corvane Inc.,CV-87750-E,AHU,2112.73,2025-04-01
+ACQ8443361,ridgeway air granite 2.5 ton 18 seer heat pump,Ridgeway Air Prod,rw 54475 k,Heat Pump,4009.42,2025-04-01
+ACQ8786300,thermaxis summit smart wi-fi 1h/1c thermostat,Thermaxis LLC,tx 10088 b,Tstats,277.78,2025-04-01
+ACQ2216972,arcticline tundra r-22 20 lb cylinder refrigerant,ARCTICLINE,AL/94005/F,Refrig,315.29,2025-04-01
+ACQ3995995,ridgeway air pioneer 5t 15seer condenser,Ridgeway Air Prod,RW-51904-C,Cond Units,3338.98,2025-04-01
+ACQ5042343,bluepeak atlas 3.5t 16seer heat pump,BluePeak HVAC,BP-66892-A,Heat Pump,3222.80,2025-04-01
+ACQ4783258,heliotemp atlas humidity 4-20ma sensor,HELIOTEMP,HT/10900/C,Sensors,112.16,2025-04-01
+ACQ8556069,ridgeway air meridian 35/7.5 mfd 370v capacitor,Ridgeway,RW-83292-H,Caps,12.63,2025-04-01
+ACQ8148276,northwind comfort zephyr duct temp 10k sensor,NORTHWIND,,Sensors,32.49,2025-04-01
+ACQ4493295,corvane meridian 40k btu 92% afue furnace,CORVANE,,Gas Furnaces,1033.00,2025-04-01
+ACQ1608481,northwind comfort apex smart wi-fi 3h/2c thermostat,NORTHWIND,NW87243D,Tstats,227.30,2025-04-01
+ACQ7909466,northwind comfort pioneer 3/8 x 7/8 25 ft line set,Northwind Comfort Inc,,Linesets,253.69,2025-04-01
+ACQ9775887,thermaxis atlas outdoor temp 4-20ma sensor,Thermaxis LLC,TX-91381-G,Sensors,65.65,2025-04-01
+ACQ4215456,heliotemp lumen 2 pole 40 amp 240v coil contactor,Helio-Temp,,Contactors,77.52,2025-04-01
+ACQ2420494,corvane sterling 3 ton multi-position air handler,Corvane Controls,CV/16366/D,AHU,1061.91,2025-04-01
+ACQ8745393,bluepeak delta 1 pole 40 amp 24v coil contactor,BLUEPEAK,BP84111D,Contactors,14.81,2025-04-01
+ACQ1142519,thermaxis granite 35/5 mfd 440v capacitor,THERMAXIS,TX75044G,Caps,38.17,2025-04-01
+ACQ2089268,thermaxis vector 2 ton 14 seer heat pump,Therm-Axis,TX81867B,Heat Pump,1581.37,2025-04-01
+ACQ6561435,bluepeak zephyr 3 ton horizontal air handler,BLUEPEAK,,AHU,2105.78,2025-04-01
+ACQ2856005,heliotemp summit 1/4 hp 1625 rpm motor,Heliotemp Corp,HT48513E,Motors,167.70,2025-04-01
+ACQ2088464,northwind comfort harbor scroll 18k btu r-454b compressor,N/W Comfort,NW-49191-C,Compressor,1374.31,2025-04-01
+ACQ8232614,northwind comfort atlas 4 ton 14 seer heat pump,Northwind Comfort Inc,NW/64159/B,Heat Pump,2695.23,2025-04-01
+ACQ6478676,heliotemp beacon 2 pole 30 amp 240v coil contactor,HELIOTEMP,HT/63653/J,Contactors,57.30,2025-04-01
+ACQ1575131,arcticline sterling 45/7.5 mfd 370v capacitor,Arcticline Mfg,al 30385 a,Caps,25.79,2025-04-01
+ACQ8466349,bluepeak trident 2 pole 40 amp 24v coil contactor,BluePeak HVAC,BP-73260-F,Contactors,60.96,2025-04-01
+ACQ8404758,northwind comfort zephyr scroll 30k btu r-454b compressor,Northwind Comfort Inc,nw 49029 e,Compressor,1269.65,2025-04-01
+ACQ2158319,northwind comfort summit 5t multi-position air handler,N/W Comfort,NW64619J,AHU,973.79,2025-04-01
+ACQ4824283,thermaxis trident 1 pole 40 amp 24v coil contactor,Thermaxis LLC,TX-24130-A,Contactors,17.02,2025-04-01
+ACQ9968365,thermaxis apex 55/5 mfd 440v capacitor,THERMAXIS,,Caps,35.39,2025-04-01
+ACQ4363591,heliotemp delta 4 ton 20 seer condenser,HELIOTEMP,,Cond Units,1651.69,2025-04-01
+ACQ8826345,arcticline harbor 5 ton horizontal air handler,Arctic Line,AL/29504/F,AHU,1439.49,2025-04-01
+ACQ7665665,thermaxis beacon 1 pole 50 amp 24v coil contactor,Therm-Axis,tx 40896 a,Contactors,61.40,2025-04-01
+ACQ8551491,arcticline meridian 2 ton 18 seer heat pump,Arctic Line,AL48615A,Heat Pump,2376.06,2025-04-01
+ACQ8522748,ridgeway air lumen 1/3 hp 1075 rpm motor,RIDGEWAY,RW-44587-H,Motors,331.45,2025-04-01
+ACQ6746010,heliotemp mesa 80k btu 96% afue furnace,Helio-Temp,,Gas Furnaces,973.68,2025-04-01
+ACQ6388558,corvane juniper r-32 20 lb cylinder refrigerant,Corvane Controls,,Refrig,423.85,2025-04-01
+ACQ5817785,ridgeway air orion 1 hp 1625 rpm motor,Ridgeway Air Prod,RW/82256/F,Motors,86.21,2025-04-01
+ACQ1407191,bluepeak delta 2 pole 30 amp 240v coil contactor,BluePeak HVAC,BP85408A,Contactors,54.57,2025-04-01
+ACQ7610382,corvane tundra 1/3 hp 825 rpm motor,CORVANE,CV-73327-D,Motors,264.45,2025-04-01
+ACQ9087653,thermaxis sterling 1/4 hp 825 rpm motor,THERMAXIS,TX95973E,Motors,346.07,2025-04-01
+ACQ7629298,heliotemp summit 35/10 mfd 440v capacitor,HELIOTEMP,,Caps,11.18,2025-04-01
+ACQ5566282,northwind comfort ember humidity 4-20ma sensor,NORTHWIND,NW22370C,Sensors,25.72,2025-04-01
+ACQ9813886,ridgeway air orion 1/4 x 3/8 50 ft line set,Ridgeway Air Prod,RW/96535/A,Linesets,168.08,2025-04-01
+ACQ1900501,northwind comfort delta 3t horizontal air handler,Northwind Comfort Inc,,AHU,1123.52,2025-04-01
+ACQ7623308,ridgeway air lumen 5 ton multi-position air handler,RIDGEWAY,RW-45738-G,AHU,1107.77,2025-04-01
+ACQ4984188,corvane meridian 2 ton 14 seer heat pump,Corvane Controls,cv 93138 d,Heat Pump,2493.34,2025-04-01
+ACQ4403248,northwind comfort quarry non-programmable 3h/2c thermostat,N/W Comfort,NW26732D,Tstats,59.55,2025-04-01
+ACQ4741161,arcticline pioneer 3 ton upflow air handler,Arcticline Mfg,AL13748H,AHU,1449.13,2025-04-01
+ACQ4214576,corvane tundra 4 ton 15 seer condenser,Corvane Inc.,,Cond Units,1563.99,2025-04-01
+ACQ1803914,heliotemp zephyr co2 4-20ma sensor,Helio-Temp,HT-32467-B,Sensors,114.39,2025-04-01
+ACQ2552786,arcticline orion 1 pole 50 amp 24v coil contactor,ARCTICLINE,AL-13169-G,Contactors,34.83,2025-04-01
+ACQ9877616,northwind comfort vector programmable 1h/1c thermostat,N/W Comfort,,Tstats,147.32,2025-04-01
+ACQ3067045,arcticline tundra 20x25x1 merv 8 filter,ARCTICLINE,AL-44064-B,Filters,11.96,2025-04-01
+ACQ2512625,northwind comfort quarry 1 hp 1625 rpm motor,N/W Comfort,NW-76543-F,Motors,401.31,2025-04-01
+ACQ7712747,corvane ember smart wi-fi 1h/1c thermostat,Corvane Controls,,Tstats,175.33,2025-04-01
+ACQ7073874,thermaxis cascade 1.5 ton 18 seer condenser,Thermaxis LLC,TX-70261-E,Cond Units,3704.02,2025-04-01
+ACQ5695373,northwind comfort meridian scroll 24k btu r-454b compressor,N/W Comfort,NW/90045/J,Compressor,1511.03,2025-04-01
+ACQ3084672,arcticline lumen programmable 2h/2c thermostat,Arctic Line,AL56046G,Tstats,267.43,2025-04-01
+ACQ4800791,arcticline lumen 3/8 x 3/4 50 ft line set,ARCTICLINE,AL-71506-B,Linesets,59.91,2025-04-01
+ACQ6291135,arcticline trident 2.5 ton 15 seer heat pump,ARCTICLINE,al 17666 f,Heat Pump,2847.64,2025-04-01
+ACQ4889966,heliotemp meridian smart wi-fi 1h/1c thermostat,Heliotemp Corp,,Tstats,139.78,2025-04-01
+ACQ9957802,arcticline quarry outdoor temp 10k sensor,ARCTICLINE,AL-35396-A,Sensors,82.93,2025-04-01
+ACQ5191429,heliotemp delta 1 pole 40 amp 240v coil contactor,Helio-Temp,,Contactors,38.21,2025-04-01
+ACQ7108360,corvane meridian smart wi-fi 3h/2c thermostat,Corvane Controls,cv 55506 j,Tstats,104.05,2025-04-01
+ACQ7081297,corvane sable 2 pole 40 amp 24v coil contactor,Corvane Inc.,,Contactors,27.49,2025-04-01
+ACQ4735318,arcticline apex 2 ton 14 seer heat pump,Arctic Line,AL-93094-H,Heat Pump,1977.38,2025-04-01
+ACQ9331250,bluepeak juniper programmable 2h/2c thermostat,BLUEPEAK,,Tstats,153.88,2025-04-01
+ACQ9249413,arcticline sable 35/7.5 mfd 440v capacitor,Arctic Line,AL-77004-K,Caps,14.46,2025-04-01
+ACQ3466842,thermaxis pioneer r-454b 20 lb cylinder refrigerant,Thermaxis LLC,TX-57945-D,Refrig,327.25,2025-04-01
+ACQ7589433,northwind comfort vector r-32 30 lb cylinder refrigerant,Northwind Comfort Inc,NW96208A,Refrig,270.34,2025-04-01
+ACQ1016578,arcticline atlas 3.5 ton upflow air handler,ARCTICLINE,AL-84604-F,AHU,1163.20,2025-04-01
+ACQ3810709,thermaxis ember 20x20x2 merv 13 filter,Therm-Axis,tx 44827 b,Filters,28.02,2025-04-01
+ACQ2926599,corvane apex 3/8 x 3/4 25 ft line set,Corvane Controls,,Linesets,73.34,2025-04-01
+ACQ5463707,thermaxis trident 50/7.5 mfd 370v capacitor,Thermaxis LLC,TX-60303-J,Caps,40.87,2025-04-01
+ACQ7283119,heliotemp beacon 16x20x1 merv 11 filter,Helio-Temp,HT72470C,Filters,35.32,2025-04-01
+ACQ9831917,arcticline apex 120k btu 97% afue furnace,ARCTICLINE,AL-44396-J,Gas Furnaces,1220.48,2025-04-01
+ACQ5761072,arcticline summit outdoor temp 10k sensor,ARCTICLINE,AL-77991-K,Sensors,40.78,2025-04-01
+ACQ7626915,ridgeway air lumen 2.5 ton 16 seer condenser,RIDGEWAY,RW-82614-A,Cond Units,3558.51,2025-04-01
+ACQ2701156,corvane juniper 4 ton horizontal air handler,Corvane Controls,CV10865C,AHU,1953.94,2025-04-01
+ACQ4899603,corvane atlas 3 pole 40 amp 24v coil contactor,Corvane Inc.,CV/32400/B,Contactors,23.95,2025-04-01
+ACQ4485778,thermaxis meridian 3 ton 14 seer condenser,Thermaxis LLC,TX20556F,Cond Units,1495.67,2025-04-01
+ACQ2609569,corvane meridian r-22 30 lb cylinder refrigerant,Corvane Controls,CV/48527/G,Refrig,102.36,2025-04-01
+ACQ8912341,heliotemp cascade 80k btu 80% afue furnace,Heliotemp Corp,,Gas Furnaces,1175.04,2025-04-01
+ACQ7362468,arcticline atlas 1 pole 30 amp 240v coil contactor,Arcticline Mfg,AL-67098-F,Contactors,64.27,2025-04-01
+ACQ6312215,bluepeak beacon 45/7.5 mfd 370v capacitor,BLUEPEAK,BP/57411/G,Caps,30.76,2025-04-01
+ACQ7180141,bluepeak pioneer programmable 2h/2c thermostat,BluePeak HVAC,bp 70196 f,Tstats,293.10,2025-04-01
+ACQ7746654,thermaxis keystone 3t 18seer condenser,Therm-Axis,TX63437E,Cond Units,3253.74,2025-04-01
+ACQ6322974,heliotemp harbor smart wi-fi 1h/1c thermostat,Helio-Temp,HT-23345-E,Tstats,217.64,2025-04-01
+ACQ4486035,thermaxis orion duct temp 10k sensor,Thermaxis LLC,TX-45021-E,Sensors,43.84,2025-04-01
+ACQ3720696,corvane juniper 50/7.5 mfd 440v capacitor,Corvane Inc.,CV/75398/G,Caps,15.23,2025-04-01
+ACQ5211893,ridgeway air sable 2t 14seer heat pump,RIDGEWAY,rw 61169 d,Heat Pump,2120.02,2025-04-01
+ACQ8981006,corvane sterling 2 ton 16 seer condenser,CORVANE,cv 17073 a,Cond Units,1928.03,2025-04-01
+ACQ3515099,heliotemp meridian 20x25x2 merv 11 filter,Heliotemp Corp,,Filters,32.30,2025-04-01
+ACQ5389945,arcticline orion 1 hp 825 rpm motor,ARCTICLINE,AL83757B,Motors,329.51,2025-04-01
+ACQ3140655,thermaxis trident r-32 30 lb cylinder refrigerant,Therm-Axis,,Refrig,345.51,2025-04-01
+ACQ8822335,heliotemp sable 3 ton upflow air handler,Helio-Temp,ht 89416 h,AHU,1193.26,2025-04-01
+ACQ7689805,arcticline apex 3/8 x 3/4 25 ft line set,ARCTICLINE,,Linesets,239.81,2025-04-01
+ACQ7595082,corvane trident scroll 60k btu r-454b compressor,CORVANE,CV/24391/K,Compressor,575.11,2025-04-01
+ACQ6652402,arcticline apex 2 pole 50 amp 120v coil contactor,ARCTICLINE,AL28410A,Contactors,56.75,2025-04-01
+ACQ7710514,ridgeway air vector co2 20k sensor,Ridgeway,RW76969A,Sensors,62.28,2025-04-01
+ACQ7031555,corvane quarry scroll 24k btu r-454b compressor,Corvane Inc.,CV-29080-K,Compressor,673.88,2025-04-01
+ACQ6376412,corvane quarry programmable 3h/2c thermostat,CORVANE,cv 59876 g,Tstats,111.51,2025-04-01
+ACQ2317012,thermaxis beacon 3 pole 40 amp 120v coil contactor,Therm-Axis,TX22934K,Contactors,38.09,2025-04-01
+ACQ3920245,heliotemp zephyr 4 ton 16 seer heat pump,Helio-Temp,HT19837G,Heat Pump,3333.10,2025-04-01
+ACQ8870613,arcticline summit 4 ton 20 seer condenser,Arctic Line,al 82227 d,Cond Units,2571.49,2025-04-01
+ACQ1807004,arcticline harbor 100k btu 92% afue furnace,Arctic Line,,Gas Furnaces,757.43,2025-04-01
+ACQ8243300,ridgeway air granite r-22 10 lb cylinder refrigerant,RIDGEWAY,rw 60635 k,Refrig,397.41,2025-04-01
+ACQ9021120,ridgeway air keystone 2 ton upflow air handler,Ridgeway Air Prod,RW64865E,AHU,1138.15,2025-04-01
+ACQ8742376,ridgeway air beacon 20x20x2 merv 8 filter,Ridgeway,RW11724G,Filters,22.22,2025-04-01
+ACQ5965973,corvane juniper smart wi-fi 2h/2c thermostat,CORVANE,CV69760D,Tstats,277.43,2025-04-01
+ACQ2473697,bluepeak vector 20x25x4 merv 13 filter,BLUEPEAK,,Filters,32.44,2025-04-01
+ACQ4811575,northwind comfort zephyr 55/10 mfd 440v capacitor,NORTHWIND,,Caps,38.35,2025-04-01
+ACQ7749488,bluepeak orion 4 ton 14 seer heat pump,BLUEPEAK,,Heat Pump,3408.77,2025-04-01
+ACQ8396683,arcticline apex 3 pole 40 amp 24v coil contactor,ARCTICLINE,al 98792 d,Contactors,13.67,2025-04-01
+ACQ5681259,northwind comfort atlas 3 ton upflow air handler,N/W Comfort,nw 17904 f,AHU,1308.95,2025-04-01
+ACQ9540329,arcticline mesa duct temp 20k sensor,Arcticline Mfg,AL51830F,Sensors,60.36,2025-04-01
+ACQ5245889,thermaxis delta 1/4 x 3/8 35 ft line set,THERMAXIS,TX14963F,Linesets,97.52,2025-04-01
+ACQ4797393,northwind comfort keystone co2 10k sensor,NORTHWIND,NW/56461/K,Sensors,65.11,2025-04-01
+ACQ6681236,arcticline orion 16x25x1 merv 13 filter,Arcticline Mfg,AL/26902/B,Filters,22.28,2025-04-01
+ACQ2056144,thermaxis orion non-programmable 1h/1c thermostat,THERMAXIS,TX-64007-F,Tstats,277.78,2025-04-01
+ACQ1438653,arcticline granite r-410a 20 lb cylinder refrigerant,Arcticline Mfg,AL-40484-K,Refrig,397.42,2025-04-01
+ACQ1336713,thermaxis juniper 1/4 x 3/8 15 ft line set,Thermaxis LLC,,Linesets,170.99,2025-04-01
+ACQ1220548,arcticline apex 3 pole 50 amp 24v coil contactor,Arcticline Mfg,AL/75243/K,Contactors,48.66,2025-04-01
+ACQ6419885,arcticline juniper 40k btu 96% afue furnace,Arcticline Mfg,AL/52795/H,Gas Furnaces,2240.87,2025-04-01
+ACQ7304073,northwind comfort atlas 3 pole 30 amp 120v coil contactor,Northwind Comfort Inc,NW92666J,Contactors,43.04,2025-04-01
+ACQ6583277,northwind comfort quarry 3/8 x 7/8 25 ft line set,Northwind Comfort Inc,NW/32273/D,Linesets,132.82,2025-04-01
+ACQ1959196,northwind comfort mesa 2.5 ton upflow air handler,Northwind Comfort Inc,NW-13961-D,AHU,1095.68,2025-04-01
+ACQ2378989,arcticline falcon 80k btu 97% afue furnace,Arctic Line,AL-57884-B,Gas Furnaces,2363.54,2025-04-01
+ACQ4109818,heliotemp summit 3/4 hp 1075 rpm motor,Heliotemp Corp,HT57172J,Motors,82.79,2025-04-01
+ACQ4143854,northwind comfort trident 5t upflow air handler,NORTHWIND,NW-21752-A,AHU,2087.64,2025-04-01
+ACQ3334836,heliotemp quarry 1/4 x 3/8 35 ft line set,HELIOTEMP,,Linesets,196.51,2025-04-01
+ACQ5299673,thermaxis sterling 16x25x4 merv 13 filter,Therm-Axis,TX/32497/J,Filters,34.51,2025-04-01
+ACQ5502914,ridgeway air juniper 1/4 hp 1625 rpm motor,Ridgeway Air Prod,,Motors,187.68,2025-04-01
+ACQ3890032,ridgeway air trident 1/3 hp 825 rpm motor,Ridgeway Air Prod,,Motors,407.96,2025-04-01
+ACQ8610361,thermaxis meridian r-410a 25 lb cylinder refrigerant,Thermaxis LLC,TX35869H,Refrig,305.61,2025-04-01
+ACQ3067332,heliotemp pioneer 3/4 hp 1075 rpm motor,Helio-Temp,,Motors,168.08,2025-04-01
+ACQ6967760,northwind comfort sable r-454b 30 lb cylinder refrigerant,Northwind Comfort Inc,NW85423G,Refrig,298.07,2025-04-01
+ACQ6238006,thermaxis sable programmable 1h/1c thermostat,Thermaxis LLC,TX-95762-E,Tstats,97.93,2025-04-01
+ACQ2218688,thermaxis tundra outdoor temp 20k sensor,THERMAXIS,,Sensors,116.09,2025-04-01
+ACQ9465087,thermaxis cascade 45/3 mfd 440v capacitor,Therm-Axis,tx 67454 h,Caps,14.97,2025-04-01
+ACQ3238871,corvane tundra outdoor temp 4-20ma sensor,Corvane Inc.,cv 52813 f,Sensors,21.30,2025-04-01
+ACQ7956591,ridgeway air keystone 3 pole 30 amp 24v coil contactor,Ridgeway Air Prod,,Contactors,19.59,2025-04-01
+ACQ8266486,arcticline apex 3 pole 30 amp 240v coil contactor,Arcticline Mfg,AL-13826-E,Contactors,13.27,2025-04-01
+ACQ5445843,ridgeway air cascade 3/8 x 3/4 35 ft line set,RIDGEWAY,rw 67329 g,Linesets,129.02,2025-04-01
+ACQ2905409,heliotemp quarry 1/4 hp 1625 rpm motor,Helio-Temp,HT/74681/K,Motors,126.58,2025-04-01
+ACQ9823223,ridgeway air tundra smart wi-fi 3h/2c thermostat,Ridgeway Air Prod,,Tstats,28.90,2025-04-01
+ACQ1632141,arcticline apex programmable 1h/1c thermostat,Arctic Line,AL67110K,Tstats,297.24,2025-04-01
+ACQ2593645,heliotemp pioneer 3/8 x 3/4 25 ft line set,Heliotemp Corp,HT19157J,Linesets,76.50,2025-04-01
+ACQ1936754,thermaxis sterling scroll 42k btu r-454b compressor,THERMAXIS,,Compressor,1350.40,2025-04-01
+ACQ1064036,ridgeway air tundra smart wi-fi 2h/2c thermostat,Ridgeway Air Prod,RW-96061-D,Tstats,205.56,2025-04-01
+ACQ7941571,ridgeway air apex non-programmable 3h/2c thermostat,Ridgeway Air Prod,,Tstats,36.59,2025-04-01
+ACQ2471990,bluepeak ember 3 ton 20 seer condenser,BluePeak HVAC,BP-44209-D,Cond Units,2485.50,2025-04-01
+ACQ6690086,bluepeak harbor 40/5 mfd 370v capacitor,BLUEPEAK,BP-21703-B,Caps,22.08,2025-04-01
+ACQ3708432,thermaxis harbor 1 pole 50 amp 240v coil contactor,THERMAXIS,TX56917E,Contactors,59.74,2025-04-01
+ACQ5760885,corvane trident 55/3 mfd 440v capacitor,Corvane Controls,cv 57891 b,Caps,54.02,2025-04-01
+ACQ9989474,thermaxis zephyr programmable 2h/2c thermostat,THERMAXIS,tx 23081 a,Tstats,37.58,2025-04-01
+ACQ7762579,arcticline ember 4 ton upflow air handler,ARCTICLINE,al 26313 j,AHU,1136.45,2025-04-01
+ACQ6249435,bluepeak summit 1/3 hp 1075 rpm motor,Blue Peak,BP13213E,Motors,170.51,2025-04-01
+ACQ8053221,thermaxis cascade 20x20x1 merv 8 filter,Therm-Axis,TX32026F,Filters,17.32,2025-04-01
+ACQ2331878,arcticline meridian 3 pole 50 amp 240v coil contactor,Arcticline Mfg,,Contactors,33.77,2025-04-01
+ACQ9772185,arcticline sable 55/5 mfd 370v capacitor,Arctic Line,,Caps,54.80,2025-04-01
+ACQ5910898,northwind comfort mesa non-programmable 2h/2c thermostat,NORTHWIND,NW39561D,Tstats,110.22,2025-04-01
+ACQ1400850,arcticline cascade 1.5 ton 18 seer heat pump,Arctic Line,AL-86638-B,Heat Pump,2169.16,2025-04-01
+ACQ1141230,bluepeak beacon 40k btu 92% afue furnace,BLUEPEAK,BP/70564/G,Gas Furnaces,1301.62,2025-04-01
+ACQ7578870,arcticline harbor 3 ton 18 seer heat pump,ARCTICLINE,AL-60661-E,Heat Pump,4237.66,2025-04-01
+ACQ2139117,ridgeway air cascade 2.5t 15seer heat pump,Ridgeway Air Prod,RW/93358/C,Heat Pump,2476.33,2025-04-01
+ACQ5312741,arcticline delta 40k btu 80% afue furnace,Arcticline Mfg,AL-18686-J,Gas Furnaces,1145.78,2025-04-01
+ACQ2524709,heliotemp meridian 80k btu 96% afue furnace,HELIOTEMP,ht 43244 h,Gas Furnaces,1968.85,2025-04-01
+ACQ4979091,thermaxis orion 100k btu 96% afue furnace,THERMAXIS,TX-61844-J,Gas Furnaces,2294.07,2025-04-01
+ACQ2333062,arcticline delta 3/8 x 3/4 25 ft line set,ARCTICLINE,,Linesets,112.44,2025-04-01
+ACQ8704448,bluepeak ember smart wi-fi 2h/2c thermostat,Blue Peak,BP-37725-B,Tstats,72.38,2025-04-01
+ACQ9338791,northwind comfort apex 1.5 ton 18 seer heat pump,Northwind Comfort Inc,nw 37439 b,Heat Pump,3011.53,2025-04-01
+ACQ7338131,bluepeak harbor 1/4 hp 1075 rpm motor,Blue Peak,,Motors,439.59,2025-04-01
+ACQ1156295,heliotemp keystone r-454b 20 lb cylinder refrigerant,Heliotemp Corp,HT/98039/B,Refrig,397.52,2025-04-01
+ACQ3728743,heliotemp zephyr 35/10 mfd 440v capacitor,Helio-Temp,HT-40055-F,Caps,24.68,2025-04-01
+ACQ1975335,heliotemp tundra 2 ton 18 seer heat pump,HELIOTEMP,ht 31730 b,Heat Pump,4279.12,2025-04-01
+ACQ2784415,corvane sable programmable 3h/2c thermostat,Corvane Inc.,cv 21478 b,Tstats,261.97,2025-04-01
+ACQ2152008,arcticline vector programmable 3h/2c thermostat,ARCTICLINE,AL37148B,Tstats,137.35,2025-04-01
+ACQ1995962,thermaxis ember 2 pole 30 amp 120v coil contactor,Thermaxis LLC,,Contactors,27.53,2025-04-01
+ACQ2128595,arcticline sterling 3/8 x 3/4 15 ft line set,ARCTICLINE,AL95924A,Linesets,80.26,2025-04-01
+ACQ9109172,heliotemp meridian 40/5 mfd 440v capacitor,HELIOTEMP,,Caps,22.19,2025-04-01
+ACQ3930705,arcticline tundra 1/4 x 3/8 15 ft line set,Arctic Line,AL-61190-J,Linesets,234.02,2025-04-01
+ACQ2202475,ridgeway air keystone 4 ton multi-position air handler,Ridgeway Air Prod,,AHU,2092.27,2025-04-01
+ACQ4156009,northwind comfort sterling 3/4 hp 1625 rpm motor,Northwind Comfort Inc,nw 22591 j,Motors,246.62,2025-04-01
+ACQ7480783,northwind comfort trident 5t 18seer condenser,NORTHWIND,nw 71398 h,Cond Units,1737.22,2025-04-01
+ACQ9563896,bluepeak vector 3.5 ton 18 seer heat pump,BLUEPEAK,,Heat Pump,3260.09,2025-04-01
+ACQ9072725,heliotemp lumen scroll 18k btu r-454b compressor,Helio-Temp,HT-76998-B,Compressor,572.31,2025-04-01
+ACQ6533789,northwind comfort delta 16x20x4 merv 13 filter,N/W Comfort,NW67143J,Filters,11.13,2025-04-01
+ACQ9305151,ridgeway air quarry 4 ton 18 seer heat pump,Ridgeway,,Heat Pump,1142.93,2025-04-01
+ACQ3586615,northwind comfort pioneer co2 20k sensor,N/W Comfort,nw 37455 f,Sensors,77.75,2025-04-01
+ACQ2872236,arcticline tundra 3 ton 15 seer condenser,ARCTICLINE,AL-58852-J,Cond Units,3479.80,2025-04-01
+ACQ3742320,arcticline atlas 3 ton 16 seer condenser,Arctic Line,,Cond Units,2632.26,2025-04-01
+ACQ3455377,northwind comfort juniper non-programmable 1h/1c thermostat,N/W Comfort,NW-71619-J,Tstats,178.00,2025-04-01
+ACQ6019225,northwind comfort apex 3t multi-position air handler,N/W Comfort,NW-31428-F,AHU,1488.84,2025-04-01
+ACQ6684447,bluepeak harbor 3 ton 15 seer heat pump,Blue Peak,BP-47038-D,Heat Pump,1430.97,2025-04-01
+ACQ7061654,ridgeway air sable 4 ton horizontal air handler,Ridgeway,,AHU,837.16,2025-04-01
+ACQ9230954,heliotemp harbor duct temp 4-20ma sensor,Helio-Temp,HT-97667-B,Sensors,103.31,2025-04-01
+ACQ8607444,heliotemp keystone 20x25x2 merv 11 filter,HELIOTEMP,HT/54917/E,Filters,33.45,2025-04-01
+ACQ3961847,corvane tundra humidity 20k sensor,CORVANE,,Sensors,16.53,2025-04-01
+ACQ2770975,heliotemp mesa 40k btu 97% afue furnace,HELIOTEMP,HT78273F,Gas Furnaces,904.07,2025-04-01
+ACQ6856018,thermaxis tundra 20x25x2 merv 13 filter,THERMAXIS,TX/45009/J,Filters,22.46,2025-04-01
+ACQ5190367,corvane orion outdoor temp 20k sensor,Corvane Controls,cv 69281 h,Sensors,39.62,2025-04-01
+ACQ8325110,corvane juniper 16x20x4 merv 13 filter,CORVANE,CV/30522/J,Filters,36.91,2025-04-01
+ACQ4335091,ridgeway air cascade 20x20x1 merv 13 filter,Ridgeway,rw 66252 f,Filters,5.70,2025-04-01
+ACQ3548365,bluepeak delta scroll 48k btu r-410a compressor,Blue Peak,BP47264G,Compressor,698.13,2025-04-01
+ACQ7935746,northwind comfort sterling 40k btu 96% afue furnace,NORTHWIND,NW-18281-F,Gas Furnaces,1286.65,2025-04-01
+ACQ8296354,heliotemp summit 2 ton 15 seer heat pump,HELIOTEMP,,Heat Pump,2870.22,2025-04-01
+ACQ6992730,bluepeak summit 1/2 hp 1075 rpm motor,BluePeak HVAC,BP49614G,Motors,278.68,2025-04-01
+ACQ4870303,arcticline juniper 3 ton 20 seer condenser,Arcticline Mfg,,Cond Units,3046.79,2025-04-01
+ACQ1666871,northwind comfort apex non-programmable 1h/1c thermostat,N/W Comfort,,Tstats,291.96,2025-04-01
+ACQ1271751,arcticline granite 1 pole 30 amp 24v coil contactor,ARCTICLINE,AL34476B,Contactors,81.73,2025-04-01
+ACQ9597441,arcticline pioneer outdoor temp 4-20ma sensor,Arcticline Mfg,al 41077 a,Sensors,96.60,2025-04-01
+ACQ8494742,arcticline mesa outdoor temp 4-20ma sensor,Arcticline Mfg,AL/92871/E,Sensors,59.63,2025-04-01
+ACQ8851251,thermaxis tundra 3 ton 14 seer heat pump,THERMAXIS,tx 12088 d,Heat Pump,2400.20,2025-04-01
+ACQ8286377,arcticline trident non-programmable 1h/1c thermostat,Arcticline Mfg,,Tstats,123.56,2025-04-01
+ACQ3769000,northwind comfort summit 2t 15seer condenser,N/W Comfort,,Cond Units,3640.22,2025-04-01
+ACQ5844478,heliotemp zephyr 1 pole 50 amp 120v coil contactor,HELIOTEMP,HT12726C,Contactors,80.03,2025-04-01
+ACQ1441359,bluepeak pioneer 60k btu 92% afue furnace,Blue Peak,BP21810E,Gas Furnaces,2121.32,2025-04-01
+ACQ9091375,arcticline beacon programmable 1h/1c thermostat,Arcticline Mfg,AL45536F,Tstats,238.36,2025-04-01
+ACQ3161913,heliotemp harbor 40/10 mfd 440v capacitor,Helio-Temp,HT/10123/J,Caps,44.04,2025-04-01
+ACQ5821600,northwind comfort sable 5 ton 14 seer heat pump,Northwind Comfort Inc,NW-29575-J,Heat Pump,1844.26,2025-04-01
+ACQ8413368,heliotemp atlas 3.5 ton 16 seer heat pump,Heliotemp Corp,HT-97775-B,Heat Pump,1407.33,2025-04-01
+ACQ8833002,thermaxis falcon 2.5 ton multi-position air handler,Thermaxis LLC,tx 87397 a,AHU,1788.42,2025-04-01
+ACQ7169851,ridgeway air keystone non-programmable 3h/2c thermostat,Ridgeway,RW/94309/G,Tstats,165.60,2025-04-01
+ACQ2334772,northwind comfort beacon 5 ton 16 seer heat pump,N/W Comfort,NW67885J,Heat Pump,2428.72,2025-04-01
+ACQ3697075,ridgeway air zephyr 1.5 ton 14 seer condenser,Ridgeway,rw 99621 b,Cond Units,4028.14,2025-04-01
+ACQ2465697,arcticline pioneer 3 pole 30 amp 120v coil contactor,Arctic Line,AL35060H,Contactors,30.94,2025-04-01
+ACQ3036625,bluepeak tundra non-programmable 2h/2c thermostat,BluePeak HVAC,bp 62354 d,Tstats,254.18,2025-04-01
+ACQ9319595,bluepeak atlas r-32 30 lb cylinder refrigerant,Blue Peak,bp 16636 a,Refrig,112.56,2025-04-01
+ACQ6238480,northwind comfort pioneer r-454b 30 lb cylinder refrigerant,NORTHWIND,NW-67971-C,Refrig,205.77,2025-04-01
+ACQ5536578,northwind comfort keystone 4 ton upflow air handler,NORTHWIND,,AHU,2095.87,2025-04-01
+ACQ6178150,heliotemp mesa 4t 20seer condenser,Heliotemp Corp,HT-69175-C,Cond Units,2500.72,2025-04-01
+ACQ4849331,northwind comfort tundra 1.5 ton 18 seer heat pump,NORTHWIND,nw 82770 e,Heat Pump,3449.28,2025-04-01
+ACQ4237672,northwind comfort harbor 1/3 hp 1625 rpm motor,NORTHWIND,,Motors,226.18,2025-04-01
+ACQ9993105,arcticline sterling 3t 18seer condenser,ARCTICLINE,AL87316C,Cond Units,2794.77,2025-04-01
+ACQ1435546,ridgeway air meridian r-32 30 lb cylinder refrigerant,RIDGEWAY,RW-80798-J,Refrig,379.24,2025-04-01
+ACQ6704837,heliotemp delta 1 pole 40 amp 24v coil contactor,Heliotemp Corp,HT-91476-F,Contactors,65.43,2025-04-01
+ACQ6018884,northwind comfort cascade 16x20x2 merv 13 filter,Northwind Comfort Inc,NW34014A,Filters,31.21,2025-04-01
+ACQ4887203,thermaxis pioneer programmable 2h/2c thermostat,THERMAXIS,tx 33894 g,Tstats,278.11,2025-04-01
+ACQ1204363,heliotemp mesa outdoor temp 20k sensor,HELIOTEMP,,Sensors,103.83,2025-04-01
+ACQ9911124,corvane zephyr 20x20x2 merv 11 filter,Corvane Controls,cv 27608 d,Filters,20.91,2025-04-01
+ACQ7010656,corvane pioneer 20x25x1 merv 8 filter,Corvane Inc.,CV/84076/F,Filters,34.37,2025-04-01
+ACQ1963959,northwind comfort trident 1/6 hp 825 rpm motor,Northwind Comfort Inc,NW35620H,Motors,138.58,2025-04-01
+ACQ6691886,corvane trident 5 ton 20 seer heat pump,Corvane Controls,CV/70068/C,Heat Pump,3537.21,2025-04-01
+ACQ5362734,northwind comfort keystone 2 pole 30 amp 240v coil contactor,N/W Comfort,nw 10688 d,Contactors,55.14,2025-04-01
+ACQ6833931,ridgeway air sable 80k btu 96% afue furnace,Ridgeway Air Prod,,Gas Furnaces,1461.64,2025-04-01
+ACQ3277010,bluepeak cascade 1/4 x 3/8 50 ft line set,Blue Peak,bp 94299 d,Linesets,112.41,2025-04-01
+ACQ4944878,arcticline beacon r-454b 30 lb cylinder refrigerant,Arcticline Mfg,,Refrig,122.68,2025-04-01
+ACQ2112660,ridgeway air meridian 60k btu 96% afue furnace,RIDGEWAY,,Gas Furnaces,2421.04,2025-04-01
+ACQ8341382,corvane meridian 4 ton upflow air handler,Corvane Controls,CV61572D,AHU,951.17,2025-04-01
+ACQ9528465,ridgeway air delta 1/2 hp 1075 rpm motor,Ridgeway,RW-86530-K,Motors,413.37,2025-04-01
+ACQ5490737,northwind comfort meridian 3 ton 14 seer condenser,N/W Comfort,,Cond Units,3507.17,2025-04-01
+ACQ4365083,heliotemp sable humidity 10k sensor,Heliotemp Corp,HT-18484-K,Sensors,62.82,2025-04-01
+ACQ5530821,bluepeak beacon duct temp 4-20ma sensor,BluePeak HVAC,BP-90136-E,Sensors,23.86,2025-04-01
+ACQ7906244,arcticline ember 50/10 mfd 370v capacitor,Arcticline Mfg,AL76212B,Caps,41.95,2025-04-01
+ACQ4986254,corvane mesa 3 pole 40 amp 120v coil contactor,Corvane Inc.,CV/41277/G,Contactors,71.97,2025-04-01
+ACQ9448857,heliotemp tundra 3 ton horizontal air handler,Helio-Temp,HT-58259-A,AHU,2073.95,2025-04-01
+ACQ6256476,corvane ember r-32 30 lb cylinder refrigerant,CORVANE,,Refrig,118.82,2025-04-01
+ACQ1051692,arcticline beacon r-32 20 lb cylinder refrigerant,ARCTICLINE,AL-54932-B,Refrig,203.82,2025-04-01
+ACQ3013555,heliotemp sterling r-22 20 lb cylinder refrigerant,Helio-Temp,HT82563G,Refrig,380.69,2025-04-01
+ACQ3705326,arcticline tundra 2.5 ton upflow air handler,Arcticline Mfg,,AHU,1892.32,2025-04-01
+ACQ8431308,heliotemp atlas 1/4 x 3/8 50 ft line set,HELIOTEMP,ht 57846 d,Linesets,106.07,2025-04-01
+ACQ9672888,bluepeak ember 4 ton upflow air handler,BluePeak HVAC,BP-22204-C,AHU,1180.53,2025-04-01
+ACQ5089987,arcticline meridian 3.5 ton 16 seer heat pump,Arctic Line,AL-71874-D,Heat Pump,3773.26,2025-04-01
+ACQ8499465,ridgeway air atlas 3.5 ton 14 seer heat pump,RIDGEWAY,RW52527B,Heat Pump,3563.16,2025-04-01
+ACQ7920553,ridgeway air harbor 16x25x1 merv 11 filter,RIDGEWAY,RW88391E,Filters,30.71,2025-04-01
+ACQ7182942,heliotemp vector 2 pole 50 amp 240v coil contactor,Helio-Temp,HT46754D,Contactors,60.79,2025-04-01
+ACQ1534743,corvane tundra 5 ton 15 seer heat pump,Corvane Controls,,Heat Pump,3170.01,2025-04-01
+ACQ5559264,bluepeak sterling 2.5 ton 18 seer condenser,BLUEPEAK,BP-34428-B,Cond Units,3014.05,2025-04-01
+ACQ7186686,northwind comfort ember 1/4 x 3/8 25 ft line set,Northwind Comfort Inc,NW83493B,Linesets,141.85,2025-04-01
+ACQ6440329,corvane ember programmable 3h/2c thermostat,CORVANE,CV-68337-K,Tstats,154.85,2025-04-01
+ACQ1415082,thermaxis granite 20x20x4 merv 8 filter,Therm-Axis,TX53954A,Filters,7.78,2025-04-01
+ACQ1749753,northwind comfort beacon 2.5t upflow air handler,Northwind Comfort Inc,NW-61886-J,AHU,1962.72,2025-04-01
+ACQ7056263,corvane summit 45/5 mfd 440v capacitor,Corvane Controls,CV-58110-C,Caps,26.18,2025-04-01
+ACQ8159073,heliotemp keystone 40/5 mfd 440v capacitor,HELIOTEMP,HT61128J,Caps,18.08,2025-04-01
+ACQ5684250,bluepeak lumen scroll 18k btu r-454b compressor,Blue Peak,,Compressor,701.31,2025-04-01
+ACQ1402915,corvane atlas scroll 18k btu r-410a compressor,Corvane Controls,CV/66143/B,Compressor,603.96,2025-04-01
+ACQ3311488,thermaxis sable r-410a 20 lb cylinder refrigerant,THERMAXIS,,Refrig,312.44,2025-04-01
+ACQ7341574,thermaxis beacon 1/4 x 3/8 15 ft line set,THERMAXIS,TX-83539-C,Linesets,165.31,2025-04-01
+ACQ3052894,ridgeway air tundra 2 ton horizontal air handler,RIDGEWAY,,AHU,2357.56,2025-04-01
+ACQ5020504,bluepeak sterling 50/7.5 mfd 370v capacitor,BLUEPEAK,BP51389B,Caps,44.29,2025-04-01
+ACQ2369772,northwind comfort granite 3/8 x 7/8 35 ft line set,N/W Comfort,NW-92655-B,Linesets,168.80,2025-04-01
+ACQ9748840,corvane pioneer 45/10 mfd 370v capacitor,Corvane Inc.,CV-59149-H,Caps,29.29,2025-04-01
+ACQ8848080,ridgeway air cascade smart wi-fi 3h/2c thermostat,RIDGEWAY,RW83684G,Tstats,170.19,2025-04-01
+ACQ1523803,thermaxis harbor programmable 1h/1c thermostat,Thermaxis LLC,tx 79350 c,Tstats,185.45,2025-04-01
+ACQ1155798,arcticline quarry 2t 20seer heat pump,Arctic Line,AL30848G,Heat Pump,1670.89,2025-04-01
+ACQ2150853,ridgeway air keystone 1/2 hp 1075 rpm motor,RIDGEWAY,rw 16864 g,Motors,98.44,2025-04-01
+ACQ8717009,northwind comfort falcon 5 ton multi-position air handler,Northwind Comfort Inc,NW-18822-K,AHU,1132.02,2025-04-01
+ACQ1254980,northwind comfort pioneer 5 ton 14 seer condenser,Northwind Comfort Inc,,Cond Units,3340.87,2025-04-01
+ACQ2515196,heliotemp delta 5t horizontal air handler,Heliotemp Corp,HT17586C,AHU,1022.01,2025-04-01
+ACQ6741277,ridgeway air ember 4 ton 16 seer condenser,RIDGEWAY,,Cond Units,3199.95,2025-04-01
+ACQ2319238,arcticline trident 2.5 ton horizontal air handler,Arcticline Mfg,,AHU,1135.92,2025-04-01
+ACQ3115290,bluepeak sable 100k btu 80% afue furnace,BLUEPEAK,BP20110J,Gas Furnaces,1759.05,2025-04-01
+ACQ7849137,ridgeway air sable 2 ton 18 seer heat pump,Ridgeway Air Prod,,Heat Pump,2824.10,2025-04-01
+ACQ3303586,ridgeway air pioneer 5 ton horizontal air handler,Ridgeway Air Prod,,AHU,1648.02,2025-04-01
+ACQ9080563,bluepeak tundra 100k btu 96% afue furnace,BLUEPEAK,BP-20215-B,Gas Furnaces,2181.35,2025-04-01
+ACQ5295310,thermaxis quarry programmable 3h/2c thermostat,THERMAXIS,,Tstats,222.46,2025-04-01
+ACQ8288172,bluepeak zephyr 4 ton 20 seer condenser,BLUEPEAK,,Cond Units,2679.87,2025-04-01
+ACQ8121615,bluepeak beacon scroll 30k btu r-410a compressor,BluePeak HVAC,BP-71500-D,Compressor,1487.33,2025-04-01
+ACQ8336592,corvane beacon co2 4-20ma sensor,Corvane Inc.,CV/82010/D,Sensors,55.20,2025-04-01
+ACQ3906233,ridgeway air beacon 120k btu 97% afue furnace,RIDGEWAY,RW-53520-K,Gas Furnaces,1840.09,2025-04-01
+ACQ1483208,ridgeway air orion scroll 60k btu r-410a compressor,RIDGEWAY,RW30109H,Compressor,813.12,2025-04-01
+ACQ5969396,northwind comfort ember 3 ton multi-position air handler,NORTHWIND,NW-62354-F,AHU,1277.20,2025-04-01
+ACQ1908576,thermaxis mesa 60k btu 96% afue furnace,Therm-Axis,TX/30104/E,Gas Furnaces,1820.83,2025-04-01
+ACQ2516169,ridgeway air meridian 60/10 mfd 370v capacitor,Ridgeway,,Caps,27.93,2025-04-01
+ACQ7463428,heliotemp juniper 60k btu 97% afue furnace,Heliotemp Corp,HT-81707-H,Gas Furnaces,2311.75,2025-04-01
+ACQ9254006,ridgeway air trident r-22 25 lb cylinder refrigerant,Ridgeway,,Refrig,355.57,2025-04-01
+ACQ3375480,bluepeak mesa 1 pole 30 amp 120v coil contactor,Blue Peak,BP98120B,Contactors,22.65,2025-04-01
+ACQ8251724,northwind comfort sterling r-454b 25 lb cylinder refrigerant,NORTHWIND,NW97206D,Refrig,267.19,2025-04-01
+ACQ2797203,ridgeway air cascade 1.5t 18seer heat pump,Ridgeway,RW/84197/D,Heat Pump,3111.91,2025-04-01
+ACQ3991387,thermaxis vector smart wi-fi 3h/2c thermostat,Thermaxis LLC,TX/80264/B,Tstats,292.24,2025-04-01
+ACQ7110187,heliotemp lumen scroll 30k btu r-454b compressor,HELIOTEMP,HT-84803-D,Compressor,1633.31,2025-04-01
+ACQ7912172,heliotemp meridian 1 hp 1075 rpm motor,HELIOTEMP,HT12577G,Motors,406.73,2025-04-01
+ACQ9167280,arcticline cascade 20x20x2 merv 8 filter,Arctic Line,al 68558 a,Filters,34.28,2025-04-01
+ACQ2344402,northwind comfort falcon scroll 24k btu r-454b compressor,NORTHWIND,NW/37829/A,Compressor,776.39,2025-04-01
+ACQ8773587,arcticline trident 3t 18seer condenser,Arcticline Mfg,AL/46528/E,Cond Units,1754.65,2025-04-01
+ACQ8209497,bluepeak sterling outdoor temp 10k sensor,BluePeak HVAC,BP-23120-B,Sensors,29.69,2025-04-01
+ACQ3683871,heliotemp harbor 20x20x1 merv 11 filter,Helio-Temp,ht 12970 f,Filters,12.53,2025-04-01
+ACQ4269224,heliotemp zephyr humidity 20k sensor,HELIOTEMP,ht 99627 h,Sensors,28.06,2025-04-01
+ACQ8054739,arcticline granite 60/10 mfd 440v capacitor,Arcticline Mfg,AL-76962-J,Caps,42.75,2025-04-01
+ACQ6071229,ridgeway air harbor 2 ton 14 seer condenser,Ridgeway Air Prod,RW/27482/E,Cond Units,1420.91,2025-04-01
+ACQ9631823,northwind comfort sable 80k btu 80% afue furnace,N/W Comfort,,Gas Furnaces,2445.91,2025-04-01
+ACQ8301204,thermaxis pioneer r-22 20 lb cylinder refrigerant,Thermaxis LLC,TX/78959/K,Refrig,213.38,2025-04-01
+ACQ3344026,northwind comfort juniper 2 pole 40 amp 120v coil contactor,NORTHWIND,,Contactors,14.70,2025-04-01
+ACQ5858869,ridgeway air keystone 2.5t 15seer heat pump,Ridgeway Air Prod,RW-26846-F,Heat Pump,4195.70,2025-04-01
+ACQ3696326,heliotemp falcon co2 4-20ma sensor,HELIOTEMP,ht 43896 g,Sensors,26.12,2025-04-01
+ACQ4919847,corvane trident r-32 20 lb cylinder refrigerant,Corvane Inc.,CV75887F,Refrig,256.63,2025-04-01
+ACQ6668167,corvane trident 1 pole 30 amp 24v coil contactor,Corvane Inc.,CV-97978-K,Contactors,22.53,2025-04-01
+ACQ5864302,northwind comfort sable 4 ton 20 seer condenser,NORTHWIND,NW-18838-D,Cond Units,2488.85,2025-04-01
+ACQ3445826,northwind comfort quarry 60/7.5 mfd 370v capacitor,Northwind Comfort Inc,NW72016A,Caps,46.80,2025-04-01
+ACQ8616299,heliotemp pioneer 1/4 x 3/8 25 ft line set,HELIOTEMP,ht 22137 e,Linesets,247.65,2025-04-01
+ACQ9155393,thermaxis tundra 3 ton upflow air handler,Therm-Axis,,AHU,1331.21,2025-04-01
+ACQ3721881,thermaxis mesa 2.5t 20seer condenser,Therm-Axis,TX69396J,Cond Units,1825.15,2025-04-01
+ACQ9217503,heliotemp falcon 5 ton multi-position air handler,HELIOTEMP,ht 39421 h,AHU,1210.93,2025-04-01
+ACQ7817713,heliotemp pioneer 3 ton 20 seer heat pump,HELIOTEMP,HT-83730-J,Heat Pump,3375.99,2025-04-01
+ACQ5858332,northwind comfort pioneer 1/6 hp 1625 rpm motor,N/W Comfort,,Motors,462.72,2025-04-01
+ACQ2490949,ridgeway air orion r-454b 30 lb cylinder refrigerant,Ridgeway,RW52458J,Refrig,416.24,2025-04-01
+ACQ5824955,heliotemp sable scroll 18k btu r-410a compressor,Helio-Temp,,Compressor,819.18,2025-04-01
+ACQ7708464,ridgeway air mesa 1/4 x 3/8 35 ft line set,Ridgeway Air Prod,RW/46907/D,Linesets,242.84,2025-04-01
+ACQ7727391,ridgeway air juniper outdoor temp 10k sensor,Ridgeway Air Prod,,Sensors,113.26,2025-04-01
+ACQ3261316,northwind comfort lumen scroll 36k btu r-410a compressor,N/W Comfort,,Compressor,782.89,2025-04-01
+ACQ2054388,bluepeak ember 1 hp 1625 rpm motor,BluePeak HVAC,BP/81508/A,Motors,415.11,2025-04-01
+ACQ7191848,arcticline falcon 5 ton 18 seer heat pump,Arcticline Mfg,,Heat Pump,2361.07,2025-04-01
+ACQ7791420,thermaxis atlas 55/10 mfd 440v capacitor,Thermaxis LLC,TX93816D,Caps,8.56,2025-04-01
+ACQ9955540,northwind comfort trident 1 pole 30 amp 24v coil contactor,NORTHWIND,nw 18900 e,Contactors,37.12,2025-04-01
+ACQ8786390,arcticline vector 3 pole 50 amp 24v coil contactor,Arctic Line,AL-87018-E,Contactors,60.92,2025-04-01
+ACQ6128677,northwind comfort atlas 2 ton 20 seer heat pump,NORTHWIND,NW66372F,Heat Pump,1206.89,2025-04-01
+ACQ5691366,ridgeway air pioneer 1 pole 40 amp 24v coil contactor,RIDGEWAY,RW-54309-G,Contactors,39.33,2025-04-01
+ACQ7117725,heliotemp sable 40k btu 80% afue furnace,HELIOTEMP,ht 78229 a,Gas Furnaces,2161.92,2025-04-01
+ACQ5399277,thermaxis beacon scroll 18k btu r-410a compressor,THERMAXIS,tx 48114 c,Compressor,1580.06,2025-04-01
+ACQ6685156,corvane keystone 3.5t horizontal air handler,CORVANE,cv 30644 f,AHU,1287.29,2025-04-01
+ACQ1312367,northwind comfort granite 16x25x2 merv 13 filter,N/W Comfort,NW-42127-J,Filters,23.20,2025-04-01
+ACQ4280667,corvane mesa 100k btu 80% afue furnace,Corvane Inc.,,Gas Furnaces,1142.14,2025-04-01
+ACQ7441381,bluepeak zephyr duct temp 10k sensor,BLUEPEAK,,Sensors,12.31,2025-04-01
+ACQ2282720,bluepeak trident 40/5 mfd 370v capacitor,BluePeak HVAC,BP16775J,Caps,16.11,2025-04-01
+ACQ1410780,ridgeway air meridian 1 hp 825 rpm motor,Ridgeway Air Prod,RW-39259-K,Motors,395.43,2025-04-01
+ACQ7031152,heliotemp sable 55/7.5 mfd 440v capacitor,HELIOTEMP,ht 82603 f,Caps,29.19,2025-04-01
+ACQ1097451,corvane summit scroll 36k btu r-410a compressor,Corvane Controls,CV76113K,Compressor,861.40,2025-04-01
+ACQ9865345,heliotemp quarry 100k btu 80% afue furnace,Helio-Temp,HT83444K,Gas Furnaces,1149.09,2025-04-01
+ACQ3602396,thermaxis sable scroll 30k btu r-454b compressor,Therm-Axis,TX-33754-E,Compressor,620.10,2025-04-01
+ACQ6998560,corvane pioneer 20x20x4 merv 8 filter,Corvane Controls,CV/36066/K,Filters,26.02,2025-04-01
+ACQ5321185,ridgeway air orion r-454b 25 lb cylinder refrigerant,Ridgeway Air Prod,rw 95661 g,Refrig,306.79,2025-04-01
+ACQ8520933,ridgeway air juniper 4t horizontal air handler,Ridgeway Air Prod,RW-88231-C,AHU,2011.05,2025-04-01
+ACQ4021711,bluepeak cascade 5 ton 20 seer heat pump,BluePeak HVAC,BP/18200/F,Heat Pump,2817.17,2025-04-01
+ACQ3770359,northwind comfort cascade 3 ton 15 seer condenser,Northwind Comfort Inc,nw 75687 d,Cond Units,2125.64,2025-04-01
+ACQ5075181,corvane lumen 20x20x1 merv 13 filter,Corvane Controls,,Filters,22.99,2025-04-01
+ACQ8700840,arcticline ember r-410a 25 lb cylinder refrigerant,ARCTICLINE,AL/64896/G,Refrig,154.80,2025-04-01
+ACQ2677003,northwind comfort tundra 60/3 mfd 370v capacitor,Northwind Comfort Inc,NW/14048/C,Caps,51.14,2025-04-01
+ACQ2526850,thermaxis trident scroll 36k btu r-454b compressor,Therm-Axis,TX-92171-D,Compressor,1549.43,2025-04-01
+ACQ8463265,heliotemp trident 5t horizontal air handler,Helio-Temp,ht 44005 b,AHU,1145.69,2025-04-01
+ACQ4814434,heliotemp zephyr 16x20x1 merv 8 filter,HELIOTEMP,HT53412E,Filters,28.20,2025-04-01
+ACQ9454456,thermaxis sable 80k btu 96% afue furnace,THERMAXIS,TX-79334-C,Gas Furnaces,1629.22,2025-04-01
+ACQ7010123,arcticline summit humidity 20k sensor,Arctic Line,AL/42802/K,Sensors,37.02,2025-04-01
+ACQ5116391,heliotemp granite 3/4 hp 1625 rpm motor,Helio-Temp,HT88630F,Motors,415.66,2025-04-01
+ACQ1925682,ridgeway air mesa 1 pole 50 amp 24v coil contactor,Ridgeway,RW-11764-E,Contactors,16.74,2025-04-01
+ACQ5145931,ridgeway air harbor 50/10 mfd 440v capacitor,Ridgeway Air Prod,RW-95069-G,Caps,24.69,2025-04-01
+ACQ2336347,northwind comfort trident 80k btu 80% afue furnace,Northwind Comfort Inc,NW/77038/J,Gas Furnaces,1723.36,2025-04-01
+ACQ5379155,heliotemp ember 1 hp 825 rpm motor,Heliotemp Corp,HT/35307/H,Motors,327.65,2025-04-01
+ACQ2697157,heliotemp harbor 3.5 ton horizontal air handler,Heliotemp Corp,HT-90992-A,AHU,1120.80,2025-04-01
+ACQ8308709,northwind comfort vector scroll 18k btu r-454b compressor,N/W Comfort,nw 14047 a,Compressor,1539.64,2025-04-01
+ACQ8224206,northwind comfort lumen 3.5t 18seer heat pump,NORTHWIND,,Heat Pump,1197.27,2025-04-01
+ACQ8103595,heliotemp mesa 3.5t upflow air handler,Heliotemp Corp,HT32597G,AHU,876.99,2025-04-01
+ACQ5140268,northwind comfort harbor 20x20x2 merv 8 filter,NORTHWIND,nw 59611 b,Filters,11.48,2025-04-01
+ACQ3300889,thermaxis sable 1/6 hp 1075 rpm motor,Therm-Axis,TX/36994/G,Motors,419.22,2025-04-01
+ACQ8954277,corvane zephyr 3/8 x 7/8 15 ft line set,Corvane Inc.,CV/26905/F,Linesets,142.28,2025-04-01
+ACQ7975713,corvane ember 3.5 ton horizontal air handler,Corvane Inc.,CV/18453/A,AHU,1131.76,2025-04-01
+ACQ5091788,thermaxis beacon 1.5 ton 16 seer heat pump,Thermaxis LLC,TX-99868-D,Heat Pump,3621.29,2025-04-01
+ACQ6401298,corvane granite 1/2 hp 1625 rpm motor,CORVANE,,Motors,426.22,2025-04-01
+ACQ5686726,thermaxis tundra co2 20k sensor,THERMAXIS,TX-66189-H,Sensors,66.78,2025-04-01
+ACQ3712263,arcticline falcon 60/5 mfd 370v capacitor,ARCTICLINE,AL/95061/A,Caps,39.40,2025-04-01
+ACQ1687335,thermaxis sterling 1/2 hp 825 rpm motor,Thermaxis LLC,TX-70688-G,Motors,357.34,2025-04-01
+ACQ3279148,bluepeak orion 1 pole 40 amp 120v coil contactor,BLUEPEAK,BP-85257-B,Contactors,61.87,2025-04-01
+ACQ4207128,arcticline cascade r-410a 20 lb cylinder refrigerant,Arctic Line,,Refrig,225.29,2025-04-01
+ACQ9968717,corvane quarry 2 pole 40 amp 240v coil contactor,Corvane Controls,,Contactors,13.06,2025-04-01
+ACQ3837257,arcticline zephyr co2 10k sensor,Arcticline Mfg,AL-27080-E,Sensors,62.27,2025-04-01
+ACQ2195841,arcticline keystone 100k btu 92% afue furnace,ARCTICLINE,,Gas Furnaces,2203.70,2025-04-01
+ACQ3435099,ridgeway air trident co2 10k sensor,Ridgeway Air Prod,RW-57891-K,Sensors,118.05,2025-04-01
+ACQ4915194,northwind comfort meridian 4 ton 16 seer condenser,NORTHWIND,NW30266F,Cond Units,2166.63,2025-04-01
+ACQ9750027,corvane juniper 60k btu 97% afue furnace,Corvane Inc.,CV-56744-E,Gas Furnaces,2167.88,2025-04-01
+ACQ8609506,northwind comfort pioneer 1 hp 825 rpm motor,Northwind Comfort Inc,NW-12730-B,Motors,97.12,2025-04-01
