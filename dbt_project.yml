@@ -1,0 +1,58 @@
+name: product_mdm
+version: "1.0.0"
+config-version: 2
+profile: product_mdm
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+analysis-paths: ["analyses"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+vars:
+  # Fuzzy matching (records with no MPN). Tuned against the ground truth file.
+  fuzzy_min_score: 0.94
+  fuzzy_min_margin: 0.02
+
+models:
+  product_mdm:
+    staging:
+      +materialized: view
+      +schema: staging
+    intermediate:
+      +materialized: table
+      +schema: intermediate
+    marts:
+      +materialized: table
+      +schema: mdm
+    quality:
+      +materialized: table
+      +schema: quality
+
+seeds:
+  product_mdm:
+    +schema: raw
+    raw_erp_products:
+      +column_types:
+        material_number: varchar
+        mfr_part_number: varchar
+        deletion_flag: varchar
+        standard_cost: decimal(12,2)
+    raw_erp_category_log:
+      +column_types:
+        material_number: varchar
+    raw_catalog_products:
+      +column_types:
+        catalog_sku: varchar
+        mpn: varchar
+        list_price: decimal(12,2)
+    raw_acq_products:
+      +column_types:
+        item_id: varchar
+        vendor_part_no: varchar
+        last_cost: decimal(12,2)
+    mdm_ground_truth:
+      +column_types:
+        source_key: varchar
