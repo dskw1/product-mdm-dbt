@@ -1,0 +1,36 @@
+version: 2
+
+models:
+  - name: mdm_match_quality
+    description: Pairwise precision and recall of the matching, scored against the ground truth file.
+    columns:
+      - name: pair_precision
+        description: Share of merged pairs that really are the same product. False merges are the expensive mistake, so this is held to 99.5%.
+        data_tests:
+          - at_least:
+              arguments:
+                threshold: 0.995
+      - name: pair_recall
+        description: Share of true pairs the pipeline merged. Misses land in the steward queue.
+        data_tests:
+          - at_least:
+              arguments:
+                threshold: 0.95
+              config:
+                severity: warn
+
+  - name: dq_steward_queue
+    description: One row per open data quality issue, prioritized, with the detail a steward needs to fix it.
+    columns:
+      - name: issue_type
+        data_tests:
+          - accepted_values:
+              arguments:
+                values:
+                  - duplicate_erp_material
+                  - fuzzy_match_to_confirm
+                  - unmatched_no_mpn
+                  - missing_cost
+                  - unmapped_category
+                  - unresolved_brand
+                  - not_on_website
