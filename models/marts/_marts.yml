@@ -1,0 +1,124 @@
+version: 2
+
+# The two tables other teams build on have enforced contracts. If someone changes a
+# column name or type upstream, the build fails here instead of breaking a dashboard
+# three teams away.
+
+models:
+  - name: dim_product_master
+    description: Golden record. One row per real product, attributes chosen by the survivorship rules in the model header.
+    config:
+      contract:
+        enforced: true
+    constraints:
+      - type: primary_key
+        columns: [master_product_id]
+    columns:
+      - name: master_product_id
+        data_type: varchar
+        description: Stable surrogate key, a hash of the match key.
+        constraints:
+          - type: not_null
+        data_tests: [unique, not_null]
+      - name: product_name
+        data_type: varchar
+        constraints:
+          - type: not_null
+      - name: brand_name
+        data_type: varchar
+        constraints:
+          - type: not_null
+      - name: mpn
+        data_type: varchar
+      - name: mpn_key
+        data_type: varchar
+        description: Normalized MPN used for matching.
+      - name: category
+        data_type: varchar
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["Equipment", "Parts", "Supplies", "Controls"]
+      - name: subcategory
+        data_type: varchar
+      - name: unit_cost
+        data_type: decimal(12,2)
+      - name: list_price
+        data_type: decimal(12,2)
+      - name: list_margin_pct
+        data_type: decimal(6,4)
+      - name: is_active
+        data_type: boolean
+        constraints:
+          - type: not_null
+      - name: first_seen_on
+        data_type: date
+      - name: source_record_count
+        data_type: integer
+        constraints:
+          - type: not_null
+      - name: in_erp
+        data_type: boolean
+      - name: in_catalog
+        data_type: boolean
+      - name: in_acquired
+        data_type: boolean
+      - name: needs_steward_review
+        data_type: boolean
+        description: True when any issue in dq_steward_queue applies to this product.
+
+  - name: xref_product_source
+    description: Crosswalk from every source record to its master product. Downstream systems join through this.
+    config:
+      contract:
+        enforced: true
+    data_tests:
+      - unique:
+          arguments:
+            column_name: "source_system || ':' || source_key"
+    columns:
+      - name: source_system
+        data_type: varchar
+        constraints:
+          - type: not_null
+        data_tests:
+          - accepted_values:
+              arguments:
+                values: ["erp", "catalog", "acquired"]
+      - name: source_key
+        data_type: varchar
+        constraints:
+          - type: not_null
+      - name: master_product_id
+        data_type: varchar
+        constraints:
+          - type: not_null
+        data_tests:
+          - relationships:
+              arguments:
+                to: ref('dim_product_master')
+                field: master_product_id
+      - name: match_method
+        data_type: varchar
+      - name: match_score
+        data_type: double
+      - name: is_source_active
+        data_type: boolean
+
+  - name: dim_product_hierarchy_history
+    description: SCD Type 2 product hierarchy. Join facts on event date between valid_from and valid_to.
+    columns:
+      - name: hierarchy_version_id
+        data_tests: [unique, not_null]
+      - name: master_product_id
+        data_tests:
+          - not_null
+          - relationships:
+              arguments:
+                to: ref('dim_product_master')
+                field: master_product_id
+      - name: category
+        data_tests:
+          - not_null:
+              config:
+                severity: warn
